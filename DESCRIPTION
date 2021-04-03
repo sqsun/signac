@@ -30,7 +30,7 @@ Imports:
     Matrix,
     Rsamtools,
     S4Vectors,
-    Seurat (>= 3.2.0),
+    Seurat (>= 3.1.0),
     SeuratObject,
     data.table,
     dplyr (>= 1.0.0),
